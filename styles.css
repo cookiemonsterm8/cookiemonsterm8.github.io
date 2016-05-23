@@ -1,3 +1,16 @@
-body{background-color: blue;
-color: orange;}
-#Nerd_Corner{color: hotpink;}
+body{background-image: url(BPsolit.jpg);
+color: #00FF00;}
+#Nerd_Corner{color: #00FF00;}
+#header{padding-top: 10px;
+border-color: orange;
+border-style: solid;
+font-family: cursive;}
+#intro{margin-top: 5px;}
+#faves{margin-top: 10px;}
+#header{margin-left: 35%;}
+#bp_pic{margin-left: 25%}
+
+.pic_header{border-style: solid;
+border-color: hotpink;}
+a:visited {color: black;}
+#link{color: hotpink;}
