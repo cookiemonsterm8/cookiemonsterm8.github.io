@@ -14,3 +14,5 @@ font-family: cursive;}
 border-color: hotpink;}
 a:visited {color: black;}
 #link{color: hotpink;}
+@media screen and (max-width: 400px) {body{border-color: white;
+	border-style: dotted;} }
